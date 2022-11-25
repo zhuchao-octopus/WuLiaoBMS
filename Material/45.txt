@@ -1,0 +1,20 @@
+制成线材
+45XBDEFFF-CC:
+X 英文品名 中文品名
+D EARPHONE 耳机
+K SHIELD HOUSING WIRE 屏蔽线
+H AC LINE 电源线
+N AV WIRE AV 线
+X HOUSING WIRE 排线
+B/D: 端子形状
+B/D 端子形状Male 或Female
+0 上锡
+1 RCA 端子
+2 2Pin 电源插头
+3 3Pin 电源插头
+4 DC 电源插头
+5 DIN 插头
+6 Phone 插头
+7 Header 插头
+9 异型插头
+FFF: AWG 号或线长度

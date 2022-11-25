@@ -1,0 +1,9 @@
+显示器件（INDICATOR LAMPS、LED、LCD）
+40XBBBBBB-CC:
+BBBBBB: 厂家型号,或机种型号, 或关键参数
+X 英文品名 中文品名
+A SMD LED 发光二极管
+C LCD LCD
+E LED 发光二极管
+T TFT LCD TFT LCD
+V VFD VFD

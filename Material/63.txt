@@ -1,0 +1,6 @@
+FILTER（滤波器）
+63XBBBBBB-CC:
+X 英文品名 中文品名
+C CERMAMIC FILTER 陶瓷滤波器
+L NOISE FILTER 声表面滤波器
+BBBBBB: 厂家型号或滤波频率

@@ -1,0 +1,11 @@
+PCB 成品(PCB FINAL ASSY)
+96XBBBBDD-CC: 为96PCB 半成品完成飞线、修补、贴纸、散热片组装
+BBBB：机型号或PCB 编号
+DD: 机种之流水号
+X 英文品名 中文品名
+C CONTROL BOARD 控制板
+D DISPLAY BOARD 显示板
+I INPUT/OUTPUT BOARD 接口板
+M MAIN BOARD 主板
+P POWER BOARD 电源板
+自行生产时, 描述中须有PCB FINAL ASSY 字样

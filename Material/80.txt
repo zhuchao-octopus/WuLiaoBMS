@@ -1,0 +1,6 @@
+五金小零件
+80XBBDDEE-CC:
+BBDDEE: 产品型号, 或最大长度(BB)、宽度(DD)、厚度(EE), 或厂家型号
+X 英文品名 中文品名
+F FIXTURE PLATE 固定支架
+W SPRING PLATE 弹簧

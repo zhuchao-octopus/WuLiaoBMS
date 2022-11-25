@@ -1,0 +1,11 @@
+标示类(产品本身)
+89XBBDDEE-CC:
+BBDDEE: 机种型号, 或长BB、宽DD、厚度EE
+X 英文品名 中文品名
+A METAL LABEL 金属铭牌
+B DATE LABEL 日期贴纸
+M S/N LABEL 序号贴纸
+P PVC LABEL PVC 铭板
+V QC LABEL QC 贴纸
+X BAR CODE LABEL 条形码贴纸
+Y LABEL 贴纸

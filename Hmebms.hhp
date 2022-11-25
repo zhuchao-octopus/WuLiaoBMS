@@ -1,0 +1,26 @@
+[OPTIONS]
+Compatibility=1.1
+Compiled file=Hmebms.chm
+Full-text search=Yes
+Compiled file=Hmebms.chm
+Compiled file=Hmebms.chm
+Compiled file=Hmebms.chm
+Contents file=Hmebms.hhc
+Index file=Hmebms.hhk
+Title=物料管理帮助系统
+Default topic=FirstTopic.htm
+Error log file=compiler.log
+
+[FILES]
+FirstTopic.htm
+;Title=FirstTopic
+rtex.gif
+dwnex.gif
+htmlhelp.css
+master.js
+
+[ALIAS]
+#include Hmebms.ali
+
+[MAP]
+#include Hmebms.h

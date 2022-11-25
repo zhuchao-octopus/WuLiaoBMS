@@ -1,0 +1,15 @@
+05XBBBBBB-CC
+
+X   英文品名                中文品名
+A   ANTI STATIC BAG         静电袋
+B   PLASTIC BOARD           塑胶板
+C   PEARL COTTON            珍珠棉
+D   BUBBLE BAG              泡泡袋
+F   PLASTIC FOIL            塑胶膜
+K   PACKING STRIP           条形打包带
+M   POLYFORM                保丽龙
+P   PE BAG PE               胶袋
+V   VACUUM BLISTER          真空罩
+
+BBBBBB: 机型部分数字带入
+CC: 流水号, 以此区分尺寸、色彩、文字内容等不同

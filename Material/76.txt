@@ -1,0 +1,8 @@
+螺丝附件 （NUT、WASHER、CLIP）
+76XBBDDEE-CC:
+BB: 最大外径
+DD: 最大内径
+EE: 最大厚度
+X 中文品名 示意图
+B 六角螺母
+L 垫圈

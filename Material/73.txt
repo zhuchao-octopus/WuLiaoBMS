@@ -1,0 +1,11 @@
+其他塑胶小组件
+72XBBBBDD-CC:
+BBBB: PCB 编号或机型名
+DD: 出模流水号
+X 英文品名 中文品名
+C COVER 塑胶盖
+F FOOT 脚垫
+H SWITCH/KEY 按键
+P SPACER 垫片
+T CABLE TIE 束带
+R HOLDER 支架

@@ -1,0 +1,7 @@
+散热片 （HEAT SINK）
+74XBBBBBB-CC:
+BBBBBB: PCB 编号或机型名
+X 英文品名 中文品名
+A AL 铝
+C CU 铜
+F FE 铁

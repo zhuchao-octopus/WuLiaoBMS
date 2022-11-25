@@ -1,0 +1,10 @@
+其他电阻(突破吸收器、热敏电阻)VARISTOR(MOV)、THERMISTOR(NTC、PTC)
+65XBBBDFF-CC:
+X 英文品名 中文品名
+N THERMISTOR 热敏电阻
+V VARISTOR 压敏电阻
+BBB:常态电阻有效数值
+D: 电阻倍数
+0 1 2 3 4 5 6 7 8 9
+1 10 100 103 104 105 106 10-1 10-2 10-3
+FF: 温度系数或压变参数

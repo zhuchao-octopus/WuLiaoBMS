@@ -1,0 +1,8 @@
+01XBBBBBB-CC
+
+X   英文品名                  中文品名
+C   SAFEGUARD CARD            保护卡
+G   WARRANTY CARD             保修卡
+S   MANUAL, INSTRUCTION BOOK  说明书
+
+BBBBBB: 机型部分数字带入

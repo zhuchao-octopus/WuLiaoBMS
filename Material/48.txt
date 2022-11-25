@@ -1,0 +1,6 @@
+有粘性绝缘料（有背胶=ADHESIVE BACKING）
+48XBBDDEE-CC:
+X 英文品名 中文品名
+A MYLAR TAPE 麦拉胶带
+C CREPE PAPER TAPE 美纹纸胶带
+BBDDEE: 尺寸: 长度BB, 宽度或内径DD, 厚度EE

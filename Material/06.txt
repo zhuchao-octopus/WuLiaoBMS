@@ -1,0 +1,11 @@
+包装用胶带和五金类
+06XBBDDDD-CC
+
+X    英文品名     中文品名
+
+A    CLOTH        纤维布
+C    PACKING TAPE 包装胶带
+M    MYLAR TAPE   黄色胶带
+
+BB: 宽度或直径(mm)
+DDDD: 长度或厚度(mm), 不计长度时该项为0000

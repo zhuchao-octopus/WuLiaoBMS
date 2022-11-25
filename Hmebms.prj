@@ -1,0 +1,11 @@
+[Settings]
+html=
+images=Images
+ccs=htmlhelp.css
+i=HmebmsIndex.xml
+last_path=E:\HMEBMS
+prefix list=IDH_,
+css=E:\HMEBMS\htmlhelp.css
+t=HmebmsTOC.xml
+[IMAGE MAP]
+MapCount=0

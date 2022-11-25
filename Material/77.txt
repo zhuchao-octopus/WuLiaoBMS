@@ -1,0 +1,9 @@
+金属外壳（上、下、前、后、侧盖等）
+77XBBBBDD-CC:
+BBBB: 产品型号
+DD: 出模流水号
+X 英文品名 中文品名
+B BOTTOM CABINET 底座
+F FRONT COVER 前板
+R REAR COVER 背板
+T TOP COVER 上盖

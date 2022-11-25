@@ -1,0 +1,9 @@
+软件(SOFTWARE)
+90XBBBBDD-CC:
+BBBBDD：PCB 编号或机种号
+DD: 机型之流水号
+CC: 软件版本更新之流水号
+X 英文品名 中文品名
+D DVD PLAYER 软件
+M MP3 PLAYER 软件
+P PORTABLE DVD PLAYER 软件

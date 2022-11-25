@@ -1,0 +1,6 @@
+换能电子零件（SPKR、ULTRASONIC TRANSDUCER）
+34XBBBBBB-CC:
+BBBBBB: 厂家产品或关键元件参数
+X 英文品名 中文品名
+B BUZZER 蜂鸣器
+S SPEAKER 扬声器

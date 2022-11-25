@@ -1,0 +1,13 @@
+化学品、助焊剂（FLUX）、稀释剂（THINNER）、去渍油
+88XBBDDEE-CC:
+BBDDEE: 产品型号, 或最大长度(BB)、宽度(DD)、厚度(EE), 或厂家型号
+X 英文品名 中文品名
+A GLUE 胶
+C CLEANER 清洁剂
+D FOAM 泡棉
+F RUBBER FOOT 脚垫
+G CORD 绳索
+L LUBRICATING OIL 润滑油
+S SOLDER 锡丝
+X FLUX 助焊剂
+Z GREASE 散热膏

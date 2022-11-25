@@ -1,0 +1,10 @@
+包装用木板箱类
+08XBBDDEE-CC
+X 英文品名 中文品名
+B WOOD BOARD 夹板
+D WOOD BOX 木箱
+E TOP BOARD 箱盖
+G PALLET 栈板
+BB: 长度(mm 或m)
+DD: 宽度(mm 或m)
+EE: 高度或厚度(mm 或m)

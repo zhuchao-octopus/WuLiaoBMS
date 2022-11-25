@@ -1,0 +1,9 @@
+一般开关（SWITCHES）
+41XBDDEEE-CC:
+B: 开关位置数(POLE 数，如不能锁定则不计入位置数)
+DD: 开关PIN 数(不含固定脚位)
+EEE: 最长尺寸(mm)
+X 英文品名 中文品名
+F TACT SWITCH 轻触开关
+J SLIDE SWITCH 滑动开关
+T PUSH SWITCH 按钮开关

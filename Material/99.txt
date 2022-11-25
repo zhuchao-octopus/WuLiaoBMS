@@ -1,0 +1,8 @@
+成品(SHIPPING ASSY)
+99XBBBBDD-CC: 交运成品
+BBBB：机种号
+DD: 机型之流水号
+X 英文品名 中文品名
+D DVD PLAYER DVD 成品
+M MP3 PLAYER MP3 成品
+P PORTABLE DVD PLAYER 移动DVD 成品
